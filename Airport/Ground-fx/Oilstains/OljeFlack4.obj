@@ -1,0 +1,26 @@
+I
+800
+OBJ
+
+TEXTURE		flackar2.png
+TEXTURE_DRAPED	flackar2.png
+POINT_COUNTS	4 0 0 6
+
+VT	  10.7417    0.0000  -24.9427	 0.000  1.000 -0.000	 0.9876  0.9787
+VT	  -9.3487    0.0000   18.1349	 0.000  1.000 -0.000	 1.9811  0.0520
+VT	  -9.3487    0.0000  -23.9051	 0.000  1.000 -0.000	 1.0115  0.0520
+VT	  10.7417    0.0000   17.0973	 0.000  1.000 -0.000	 1.9571  0.9787
+
+IDX	0
+IDX	1
+IDX	2
+IDX	1
+IDX	0
+IDX	3
+
+ATTR_layer_group	objects -5
+ATTR_poly_os	2
+ATTR_draped
+TRIS	0 6
+
+

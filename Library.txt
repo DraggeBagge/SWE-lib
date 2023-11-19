@@ -1,0 +1,349 @@
+I
+800
+LIBRARY
+
+#Bilar
+EXPORT SWE-lib\Airport\Vehicles\Cars Bilar/Insatsbilen.obj
+EXPORT SWE-lib/Airport/Vehicles/Cars/Honda.obj Bilar/Honda.obj
+EXPORT SWE-lib/Airport/Vehicles/Cars/Brandbil.obj Bilar/Brandbil.obj
+EXPORT SWE-lib/Airport/Vehicles/Cars/Tankbil shell2.obj Bilar/Tankbil shell2.obj
+EXPORT SWE-lib/Airport/Vehicles/Cars/Plogbil.obj Bilar/Plogbil.obj
+EXPORT SWE-lib/Airport/Vehicles/Cars/Raddningsbil.obj Bilar/Raddningsbil.obj
+EXPORT SWE-lib/Airport/Vehicles/Cars/SAAB93.obj Bilar/SAAB93.obj
+EXPORT SWE-lib/Airport/Vehicles/Cars/Volvo_C90.obj Bilar/Volvo_C90.obj
+EXPORT SWE-lib/Airport/Vehicles/Cars/VolvoS40.obj Bilar/VolvoS40.obj
+EXPORT SWE-lib/Airport/Vehicles/Cars/VolvoS80.obj Bilar/VolvoS80.obj
+EXPORT SWE-lib/Airport/Vehicles/Cars/VolvoV70bla.obj Bilar/VolvoV70bla.obj
+EXPORT SWE-lib/Airport/Vehicles/Cars/VolvoV70rod.obj Bilar/VolvoV70rod.obj
+EXPORT SWE-lib/Airport/Vehicles/Cars/WWGolf.obj Bilar/WWGolf.obj
+EXPORT SWE-lib/Airport/Vehicles/Cars/Lastbil.obj Bilar/Lastbil.obj
+
+
+
+
+#Plinjer
+EXPORT LA-X-Library1/Plinjer/Plinjer1.obj Plinjer/Plinjer1.obj
+EXPORT LA-X-Library1/Plinjer/Plinjer1_slut.obj Plinjer/Plinjer1_slut.obj
+EXPORT LA-X-Library1/Plinjer/Plinjer2_enkel.obj Plinjer/Plinjer2_enkel.obj
+EXPORT LA-X-Library1/Plinjer/Plinjer2_enkel_slut.obj Plinjer/Plinjer2_enkel_slut.obj
+
+#Kyrkor
+EXPORT LA-X-Library1/Kyrkor/ESTA_kyrka.obj Kyrkor/ESTA_kyrka.obj
+EXPORT LA-X-Library1/Kyrkor/Scan_church1.obj Kyrkor/Scan_church1.obj
+EXPORT LA-X-Library1/Kyrkor/Scan_church2.obj Kyrkor/Scan_church2.obj
+
+#3D-Trad
+EXPORT LA-X-Library1/3D-trad/3dBjork6_M.obj 3D-Trad/3dBjork6_M.obj
+EXPORT LA-X-Library1/3D-trad/3dBjork10_M.obj 3D-Trad/3dBjork10_M.obj
+EXPORT LA-X-Library1/3D-trad/3dBjork16_M.obj 3D-Trad/3dBjork16_M.obj
+EXPORT LA-X-Library1/3D-trad/3dBjork23_M.obj 3D-Trad/3dBjork23_M.obj
+EXPORT LA-X-Library1/3D-trad/3dBjorkdunge3.obj 3D-Trad/3dBjorkdunge3.obj
+EXPORT LA-X-Library1/3D-trad/3dBuske1_M.obj 3D-Trad/3dBuske1_M.obj
+EXPORT LA-X-Library1/3D-trad/3dtrad4_12m.obj 3D-Trad/3dtrad4_12m.obj
+EXPORT LA-X-Library1/3D-trad/3dtrad4_19m.obj 3D-Trad/3dtrad4_19m.obj
+EXPORT LA-X-Library1/3D-trad/3dtrad4_24m.obj 3D-Trad/3dtrad4_24m.obj
+EXPORT LA-X-Library1/3D-trad/3dtrad4_buske_2m.obj 3D-Trad/3dtrad4_buske_2m.obj
+EXPORT LA-X-Library1/3D-trad/3dtrad4_buske_3m.obj 3D-Trad/3dtrad4_buske_3m.obj
+EXPORT LA-X-Library1/3D-trad/3dtrad4_buskRad.obj 3D-Trad/3dtrad4_buskRad.obj
+EXPORT LA-X-Library1/3D-trad/Tall2_smal.obj 3D-Trad/Tall2_smal.obj
+
+
+#Gras
+
+EXPORT LA-X-Library1/Gras/Gras.FOR Gras/Gras.FOR
+EXPORT LA-X-Library1/Gras/Gras2_kort.FOR Gras/Gras2_kort.FOR
+EXPORT LA-X-Library1/Gras/GrasTuva.FOR Gras/GrasTuva.FOR
+EXPORT LA-X-Library1/Gras/GrasTuvaTat.FOR Gras/GrasTuvaTat.FOR
+EXPORT LA-X-Library1/Gras/GrasTuvaTorrLjus.FOR Gras/GrasTuvaTorrLjus.FOR
+EXPORT LA-X-Library1/Gras/GrasTuvaTorrt.FOR Gras/GrasTuvaTorrt.FOR
+EXPORT LA-X-Library1/Gras/GrasTorrt.FOR Gras/GrasTorrt.FOR
+EXPORT LA-X-Library1/Gras/Hundkex.FOR Gras/Hundkex.FOR
+EXPORT LA-X-Library1/Gras/TorrtGrasHog.FOR Gras/TorrtGrasHog.FOR
+EXPORT LA-X-Library1/Gras/GrasBlandGreen.FOR Gras/GrasBlandGreen.FOR
+EXPORT LA-X-Library1/Gras/GrasBlandGreenHog.FOR Gras/GrasBlandGreenHog.FOR
+EXPORT LA-X-Library1/Gras/TorrtGrasBland.FOR Gras/TorrtGrasBland.FOR
+EXPORT LA-X-Library1/Gras/GrasKant.LIN Gras/GrasKant.LIN
+EXPORT LA-X-Library1/Gras/GrasBlandBrunHog.FOR Gras/GrasBlandBrunHog.FOR
+EXPORT LA-X-Library1/Gras/GrasBlandGreenMellan.FOR Gras/GrasBlandGreenMellan.FOR
+EXPORT LA-X-Library1/Gras/Gras2_kortTorrt.FOR Gras/Gras2_kortTorrt.FOR
+EXPORT LA-X-Library1/Gras/GrasBlandBrunMellan.FOR Gras/GrasBlandBrunMellan.FOR
+EXPORT LA-X-Library1/Gras/GrasBlandGreenHog2.FOR Gras/GrasBlandGreenHog2.FOR
+EXPORT LA-X-Library1/Gras/GrasBlandGreenHog3.FOR Gras/GrasBlandGreenHog3.FOR
+EXPORT LA-X-Library1/Gras/Gras1.FOR Gras/Gras1.FOR
+EXPORT LA-X-Library1/Gras/Gras2.FOR Gras/Gras2.FOR
+
+
+
+
+
+
+
+
+#Lampor
+EXPORT LA-X-Library1/Lampor/GatlampaDubbel.obj Lampor/GatlampaDubbel.obj
+EXPORT LA-X-Library1/Lampor/GatlampaDubbel_5m.obj Lampor/GatlampaDubbel_5m.obj
+EXPORT LA-X-Library1/Lampor/GatlampaDubbel_7m.obj Lampor/GatlampaDubbel_7m.obj
+EXPORT LA-X-Library1/Lampor/GatlampaDubbel_WW.obj Lampor/GatlampaDubbel_WW.obj
+EXPORT LA-X-Library1/Lampor/GatlampaEnkel_7.5m.obj Lampor/GatlampaEnkel_7.5m.obj
+EXPORT LA-X-Library1/Lampor/GatlampaHogVinkel.obj Lampor/GatlampaHogVinkel.obj
+EXPORT LA-X-Library1/Lampor/GatLampaRak.obj Lampor/GatLampaRak.obj
+EXPORT LA-X-Library1/Lampor/GatLampaRak2.obj Lampor/GatLampaRak2.obj
+EXPORT LA-X-Library1/Lampor/GatLampaRund.obj Lampor/GatLampaRund.obj
+EXPORT LA-X-Library1/Lampor/Lampa_Stor_20m_22.obj Lampor/Lampa_Stor_20m_22.obj
+EXPORT LA-X-Library1/Lampor/Lampa_Stor_20m_223.obj Lampor/Lampa_Stor_20m_223.obj
+EXPORT LA-X-Library1/Lampor/StorLampa_Gra_5_lamp.obj Lampor/StorLampa_Gra_5_lamp.obj
+EXPORT LA-X-Library1/Lampor/StorLampa_Gra_5_lamp_10m.obj Lampor/StorLampa_Gra_5_lamp_10m.obj
+EXPORT LA-X-Library1/Lampor/StorLampa_Gra_5_lamp_15m.obj Lampor/StorLampa_Gra_5_lamp_15m.obj
+EXPORT LA-X-Library1/Lampor/VaggGatlamp_5.obj Lampor/VaggGatlamp_5.obj
+
+#Reklamflaggor
+EXPORT LA-X-Library1/Reklamflaggor/Godis_reklam.obj Reklamflaggor/Godis_reklam.obj
+EXPORT LA-X-Library1/Reklamflaggor/green_reklam.obj Reklamflaggor/green_reklam.obj
+EXPORT LA-X-Library1/Reklamflaggor/ICAN_reklam.obj Reklamflaggor/ICAN_reklam.obj
+EXPORT LA-X-Library1/Reklamflaggor/krea_reklam.obj Reklamflaggor/krea_reklam.obj
+EXPORT LA-X-Library1/Reklamflaggor/prick_reklam.obj Reklamflaggor/prick_reklam.obj
+EXPORT LA-X-Library1/Reklamflaggor/sweden.obj Reklamflaggor/sweden.obj
+EXPORT LA-X-Library1/Reklamflaggor/Kinnarps_reklam.obj Reklamflaggor/Kinnarps_reklam.obj
+EXPORT LA-X-Library1/Reklamflaggor/MFK_reklam.obj Reklamflaggor/MFK_reklam.obj
+EXPORT LA-X-Library1/Reklamflaggor/SAS_reklam.obj Reklamflaggor/SAS_reklam.obj
+EXPORT LA-X-Library1/Reklamflaggor/UPS_reklam.obj Reklamflaggor/UPS_reklam.obj
+EXPORT LA-X-Library1/Reklamflaggor/FF_reklam.obj Reklamflaggor/FF_reklam.obj
+EXPORT LA-X-Library1/Reklamflaggor/VXO-reklam.obj Reklamflaggor/VXO-reklam.obj
+EXPORT LA-X-Library1/Reklamflaggor/Flysmaland_reklam.obj Reklamflaggor/Flysmaland_reklam.obj
+EXPORT LA-X-Library1/Reklamflaggor/SwedenVimpel.obj Reklamflaggor/SwedenVimpel.obj
+
+
+
+#Koner
+EXPORT LA-X-Library1/Koner/RodVitKonX3.obj Koner/RodVitKonX3.obj
+EXPORT LA-X-Library1/Koner/RodVitKon.obj Koner/RodVitKon.obj
+EXPORT LA-X-Library1/Koner/Konrad.STR Koner/Konrad.STR
+
+
+#Grindar
+EXPORT LA-X-Library1/Grindar/Grind2m.obj Grindar/Grind2m.obj
+EXPORT LA-X-Library1/Grindar/LitenDubbelgrind.obj Grindar/LitenDubbelgrind.obj
+EXPORT LA-X-Library1/Grindar/StorGrindBred.obj Grindar/StorGrindBred.obj
+EXPORT LA-X-Library1/Grindar/StorGrindDubbel.obj Grindar/StorGrindDubbel.obj
+EXPORT LA-X-Library1/Grindar/StorGrindDubbelBred.obj Grindar/StorGrindDubbelBred.obj
+EXPORT LA-X-Library1/Grindar/GrindGra.obj Grindar/GrindGra.obj
+EXPORT LA-X-Library1/Grindar/GrindLiten.obj Grindar/GrindLiten.obj
+EXPORT LA-X-Library1/Grindar/StorGrindDubbelOpen.obj Grindar/StorGrindDubbelOpen.obj
+EXPORT LA-X-Library1/Grindar/GrindNat_Liten.obj Grindar/GrindNat_Liten.obj
+EXPORT LA-X-Library1/Grindar/GrindLiten_Tom.obj Grindar/GrindLiten_Tom.obj
+EXPORT LA-X-Library1/Grindar/GrindNat_2.8.obj Grindar/GrindNat_2.8.obj
+EXPORT LA-X-Library1/Grindar/GrindNat_3,1.obj Grindar/GrindNat_3,1.obj
+EXPORT LA-X-Library1/Grindar/GrindLiten_Galler.obj Grindar/GrindLiten_Galler.obj
+EXPORT LA-X-Library1/Grindar/GGrindGaller_2.8.obj Grindar/GrindGaller_2.8.obj
+EXPORT LA-X-Library1/Grindar/GrindGallerPlat_3,1.obj Grindar/GrindGallerPlat_3,1.obj
+EXPORT LA-X-Library1/Grindar/GrindGaller_3,1.obj Grindar/GrindGaller_3,1.obj
+EXPORT LA-X-Library1/Grindar/StorGrindDubbelBred2.8.obj Grindar/StorGrindDubbelBred2.8.obj
+EXPORT LA-X-Library1/Grindar/Grind_Stor.obj Grindar/Grind_Stor.obj
+EXPORT LA-X-Library1/Grindar/GrindStorDubbel_07.obj Grindar/GrindStorDubbel_07.obj
+
+
+#Elskap
+EXPORT LA-X-Library1/Elskap/Elskap1.obj Elskap/Elskap1.obj
+EXPORT LA-X-Library1/Elskap/Elskap4_red.obj Elskap/Elskap4_red.obj
+EXPORT LA-X-Library1/Elskap/Elskap3.obj Elskap/Elskap3.obj
+
+#FVapnet
+EXPORT LA-X-Library1/FVapnet/BagHangStor.obj FVapnet/BagHangStor.obj
+EXPORT LA-X-Library1/FVapnet/Barack1.obj FVapnet/Barack1.obj
+EXPORT LA-X-Library1/FVapnet/BrunGron.obj FVapnet/BrunGron.obj
+EXPORT LA-X-Library1/FVapnet/FemGarage.obj FVapnet/FemGarage.obj
+EXPORT LA-X-Library1/FVapnet/GraHus.obj FVapnet/GammaltPlathus.obj
+EXPORT LA-X-Library1/FVapnet/GraMurHang.obj FVapnet/GraMurHang.obj
+EXPORT LA-X-Library1/FVapnet/GronaLanga.obj FVapnet/GronaLanga.obj
+EXPORT LA-X-Library1/FVapnet/M_Lastbil.obj FVapnet/M_Lastbil.obj
+EXPORT LA-X-Library1/FVapnet/M_Slapvagn.obj FVapnet/M_Slapvagn.obj
+EXPORT LA-X-Library1/FVapnet/M_SoldTransport.obj FVapnet/M_SoldTransport.obj
+EXPORT LA-X-Library1/FVapnet/M_SoldTransportSlap.obj FVapnet/M_SoldTransportSlap.obj
+EXPORT LA-X-Library1/FVapnet/M_Tankbil.obj FVapnet/M_Tankbil.obj
+EXPORT LA-X-Library1/FVapnet/Stridsvagn.obj FVapnet/Stridsvagn.obj
+EXPORT LA-X-Library1/FVapnet/Valp.obj FVapnet/Valp.obj
+EXPORT LA-X-Library1/FVapnet/GronaMellan.obj FVapnet/GronaMellan.obj
+EXPORT LA-X-Library1/FVapnet/GronaPlast.obj FVapnet/GronaPlast.obj
+EXPORT LA-X-Library1/FVapnet/GronMellanGarage.obj FVapnet/GronMellanGarage.obj
+EXPORT LA-X-Library1/FVapnet/GulaKlubb.obj FVapnet/GulaKlubb.obj
+EXPORT LA-X-Library1/FVapnet/GulForlaggning.obj FVapnet/GulForlaggning.obj
+EXPORT LA-X-Library1/FVapnet/GulMellan1.obj FVapnet/GulMellan1.obj
+EXPORT LA-X-Library1/FVapnet/GulMellandel.obj FVapnet/GulMellandel.obj
+EXPORT LA-X-Library1/FVapnet/Hangar7.obj FVapnet/Hangar7.obj
+EXPORT LA-X-Library1/FVapnet/HangarLang.obj FVapnet/HangarLang.obj
+EXPORT LA-X-Library1/FVapnet/LillaGra.obj FVapnet/LillaGra.obj
+EXPORT LA-X-Library1/FVapnet/LillaGrona.obj FVapnet/LillaGrona.obj
+EXPORT LA-X-Library1/FVapnet/Mellanhus1.obj FVapnet/Mellanhus1.obj
+EXPORT LA-X-Library1/FVapnet/Mellanhus2.obj FVapnet/Mellanhus2.obj
+EXPORT LA-X-Library1/FVapnet/MilHang.obj FVapnet/MilHang.obj
+EXPORT LA-X-Library1/FVapnet/MotorTvatt.obj FVapnet/MotorTvatt.obj
+EXPORT LA-X-Library1/FVapnet/RundhanDubbelHog.obj FVapnet/RundhanDubbelHog.obj
+EXPORT LA-X-Library1/FVapnet/Rundhang.obj FVapnet/Rundhang.obj
+EXPORT LA-X-Library1/FVapnet/Rundhang2.obj FVapnet/Rundhang2.obj
+EXPORT LA-X-Library1/FVapnet/RundHangHog.obj FVapnet/RundHangHog.obj
+EXPORT LA-X-Library1/FVapnet/Spetshangar.obj FVapnet/Spetshangar.obj
+EXPORT LA-X-Library1/FVapnet/Spetshangar3.obj FVapnet/Spetshangar3.obj
+EXPORT LA-X-Library1/FVapnet/StoraGrona.obj FVapnet/StoraGrona.obj
+EXPORT LA-X-Library1/FVapnet/StoraStora.obj FVapnet/StoraStora.obj
+EXPORT LA-X-Library1/FVapnet/Toreboda1.obj FVapnet/Toreboda1.obj
+EXPORT LA-X-Library1/FVapnet/TvattHall.obj FVapnet/TvattHall.obj
+EXPORT LA-X-Library1/FVapnet/FV-Torn.obj FVapnet/FV-Torn.obj
+
+#Gardar
+EXPORT LA-X-Library1/Gardar/Bondgard1.obj Gardar/Bondgard1.obj
+EXPORT LA-X-Library1/Gardar/BondGard2.obj Gardar/BondGard2.obj
+EXPORT LA-X-Library1/Gardar/BondLadaKort.obj Gardar/BondLadaKort.obj
+EXPORT LA-X-Library1/Gardar/BondLadaLang.obj Gardar/BondLadaLang.obj
+EXPORT LA-X-Library1/Gardar/BondLadaVinkel.obj Gardar/BondLadaVinkel.obj
+EXPORT LA-X-Library1/Gardar/Ellens-Stuga.obj Gardar/Ellens-Stuga.obj
+
+#Tag
+EXPORT LA-X-Library1/Tag/Godsvagnar.obj Tag/Godsvagnar.obj
+EXPORT LA-X-Library1/Tag/Lok.obj Tag/Lok.obj
+EXPORT LA-X-Library1/Tag/Lok2.obj Tag/Lok2.obj
+EXPORT LA-X-Library1/Tag/X-2000.obj Tag/X-2000.obj
+EXPORT LA-X-Library1/Tag/x-2000_vagn.obj Tag/x-2000_vagn.obj
+
+#Staket
+EXPORT LA-X-Library1/Staket/Staket1.FAC Staket/Staket1.FAC
+EXPORT LA-X-Library1/Staket/Staket2.FAC Staket/Staket2.FAC
+EXPORT LA-X-Library1/Staket/Staket3.FAC Staket/Staket3.FAC
+EXPORT LA-X-Library1/Staket/TraStaket4m.obj Staket/TraStaket4m.obj
+EXPORT LA-X-Library1/Staket/TraStaket8m.obj Staket/TraStaket8m.obj
+EXPORT LA-X-Library1/Staket/TraStaket12m.obj Staket/TraStaket12m.obj
+EXPORT LA-X-Library1/Staket/TraStaketStolpe.obj Staket/TraStaketStolpe.obj
+EXPORT LA-X-Library1/Staket/VittStaket.FAC Staket/VittStaket.FAC
+EXPORT LA-X-Library1/Staket/TraStaket.FAC Staket/TraStaket.FAC
+
+
+#Meter
+EXPORT LA-X-Library1/Meter/Meter.obj Meter/Meter.obj
+
+#Bilgrupper
+EXPORT LA-X-Library1/Bilgrupper/Bilgrupp1-LitenEnkel.obj Bilgrupper/Bilgrupp1-LitenEnkel.obj
+EXPORT LA-X-Library1/Bilgrupper/BilgruppMellanStor.obj Bilgrupper/BilgruppMellanStor.obj
+EXPORT LA-X-Library1/Bilgrupper/BilgruppStor.obj Bilgrupper/BilgruppStor.obj
+
+#AutogenGardar
+EXPORT LA-X-Library1/AutogenGardar/GarageRed.obj AutogenGardar/GarageRed.obj
+EXPORT LA-X-Library1/AutogenGardar/GarageRed2.obj AutogenGardar/GarageRed2.obj
+EXPORT LA-X-Library1/AutogenGardar/LadaRedLang.obj AutogenGardar/LadaRedLang.obj
+EXPORT LA-X-Library1/AutogenGardar/LadaRedMellan.obj AutogenGardar/LadaRedMellan.obj
+EXPORT LA-X-Library1/AutogenGardar/LadaRedUthus.obj AutogenGardar/LadaRedUthus.obj
+EXPORT LA-X-Library1/AutogenGardar/LadaVitKort.obj AutogenGardar/LadaVitKort.obj
+EXPORT LA-X-Library1/AutogenGardar/LadaVitLang.obj AutogenGardar/LadaVitLang.obj
+EXPORT LA-X-Library1/AutogenGardar/LadaVitMellan.obj AutogenGardar/LadaVitMellan.obj
+EXPORT LA-X-Library1/AutogenGardar/VillaVit1.obj AutogenGardar/VillaVit1.obj
+EXPORT LA-X-Library1/AutogenGardar/VillaVit2.obj AutogenGardar/VillaVit2.obj
+EXPORT LA-X-Library1/AutogenGardar/Bostad_red.obj AutogenGardar/Bostad_red.obj
+EXPORT LA-X-Library1/AutogenGardar/VillaRed.obj AutogenGardar/VillaRed.obj
+
+#Textur
+EXPORT LA-X-Library1/Textur/Asphaltflammig.pol Textur/Asphaltflammig.pol
+EXPORT LA-X-Library1/Textur/AsphaltRuff.pol Textur/AsphaltRuff.pol
+EXPORT LA-X-Library1/Textur/AsphaltGra.pol Textur/AsphaltGra.pol
+EXPORT LA-X-Library1/Textur/AsphaltStandard.pol Textur/AsphaltStandard.pol
+EXPORT LA-X-Library1/Textur/Sand.pol Textur/Sand.pol
+EXPORT LA-X-Library1/Textur/GravelRed.pol Textur/GravelRed.pol
+EXPORT LA-X-Library1/Textur/GravelGra.pol Textur/GravelGra.pol
+EXPORT LA-X-Library1/Textur/Betong.pol Textur/Betong.pol
+EXPORT LA-X-Library1/Textur/Markplattor.pol Textur/Markplattor.pol
+
+
+#Akrar
+EXPORT LA-X-Library1/Akrar/Havre.FOR Akrar/Havre.FOR
+EXPORT LA-X-Library1/Akrar/Klover.FOR Akrar/Klover.FOR
+EXPORT LA-X-Library1/Akrar/Korn.FOR Akrar/Korn.FOR
+EXPORT LA-X-Library1/Akrar/Rag.FOR Akrar/Rag.FOR
+EXPORT LA-X-Library1/Akrar/KornKantBotten.LIN Akrar/KornKantBotten.LIN
+EXPORT LA-X-Library1/Akrar/FoderGron.FOR Akrar/FoderGron.FOR
+EXPORT LA-X-Library1/Akrar/RapsMogen.FOR Akrar/RapsMogen.FOR
+
+
+
+#Vagar
+EXPORT LA-X-Library1/Vagar/Asphaltroad.LIN Vagar/Asphaltroad.LIN
+EXPORT LA-X-Library1/Vagar/Asphaltroad2.LIN Vagar/Asphaltroad2.LIN
+EXPORT LA-X-Library1/Vagar/Asphaltroad3.LIN Vagar/Asphaltroad3.LIN
+EXPORT LA-X-Library1/Vagar/Asphaltroad4.LIN Vagar/Asphaltroad4.LIN
+EXPORT LA-X-Library1/Vagar/Asphaltroad5.LIN Vagar/Asphaltroad5.LIN
+EXPORT LA-X-Library1/Vagar/GraGrus3.LIN Vagar/GraGrus3.LIN
+EXPORT LA-X-Library1/Vagar/GraGrus4.LIN Vagar/GraGrus4.LIN
+EXPORT LA-X-Library1/Vagar/GraGrus5.LIN Vagar/GraGrus5.LIN
+EXPORT LA-X-Library1/Vagar/GrusGrus3.LIN Vagar/GrusGrus3.LIN
+EXPORT LA-X-Library1/Vagar/GrusGrus5.LIN Vagar/GrusGrus5.LIN
+EXPORT LA-X-Library1/Vagar/GrusGrus4.LIN Vagar/GrusGrus4.LIN
+EXPORT LA-X-Library1/Vagar/Hjulspar3.LIN Vagar/Hjulspar3.LIN
+EXPORT LA-X-Library1/Vagar/Hjulspar4.LIN Vagar/Hjulspar4.LIN
+
+
+
+
+
+#SandGrus
+EXPORT LA-X-Library1/SandGrus/Sand_Hog.obj SandGrus/Sand_Hog.obj
+EXPORT LA-X-Library1/SandGrus/Sand_Stor.obj SandGrus/Sand_Stor.obj
+EXPORT LA-X-Library1/SandGrus/SandStorFlat.obj SandGrus/SandStorFlat.obj
+
+
+#Oljeflackar
+EXPORT LA-X-Library1/Oljeflackar/OljeFlack.obj Oljeflackar/OljeFlack.obj
+EXPORT LA-X-Library1/Oljeflackar/OljeFlack2.obj Oljeflackar/OljeFlack2.obj
+EXPORT LA-X-Library1/Oljeflackar/OljeFlack3.obj Oljeflackar/OljeFlack3.obj
+EXPORT LA-X-Library1/Oljeflackar/OljeFlack4.obj Oljeflackar/OljeFlack4.obj
+
+
+#Industrier
+EXPORT LA-X-Library1/Industrier/Fabrik5_Gra.obj Industrier/Fabrik5_Gra.obj
+EXPORT LA-X-Library1/Industrier/Fabrik6_VitRed.obj Industrier/Fabrik6_VitRed.obj
+EXPORT LA-X-Library1/Industrier/Fabrik6Redvit.obj Industrier/Fabrik6Redvit.obj
+EXPORT LA-X-Library1/Industrier/Fabrik9.obj Industrier/Fabrik9.obj
+EXPORT LA-X-Library1/Industrier/IndustriBla.obj Industrier/IndustriBla.obj
+EXPORT LA-X-Library1/Industrier/IndustriGreen.obj Industrier/IndustriGreen.obj
+EXPORT LA-X-Library1/Industrier/Industri-Kontor.obj Industrier/Industri-Kontor.obj
+EXPORT LA-X-Library1/Industrier/KontorBla.obj Industrier/KontorBla.obj
+EXPORT LA-X-Library1/Industrier/KontorGra.obj Industrier/KontorGra.obj
+EXPORT LA-X-Library1/Industrier/MagasinGult.obj Industrier/MagasinGult.obj
+EXPORT LA-X-Library1/Industrier/MagasinVitt.obj Industrier/MagasinVitt.obj
+EXPORT LA-X-Library1/Industrier/ESG_Rol1.obj Industrier/ESG_Rol1.obj
+EXPORT LA-X-Library1/Industrier/ESG_Rol2.obj Industrier/ESG_Rol2.obj
+EXPORT LA-X-Library1/Industrier/Svenskahem.obj Industrier/Svenskahem.obj
+EXPORT LA-X-Library1/Industrier/Tvatthall.obj Industrier/Tvatthall.obj
+EXPORT LA-X-Library1/Industrier/PCHuset.obj Industrier/PCHuset.obj
+
+
+#Lantbruk
+EXPORT LA-X-Library1/Lantbruk/Slapvagn.obj Lantbruk/Slapvagn.obj
+EXPORT LA-X-Library1/Lantbruk/TraktorGron.obj Lantbruk/TraktorGron.obj
+EXPORT LA-X-Library1/Lantbruk/TraktorGul.obj Lantbruk/TraktorGul.obj
+EXPORT LA-X-Library1/Lantbruk/TraktorRod.obj Lantbruk/TraktorRod.obj
+EXPORT LA-X-Library1/Lantbruk/Godselstack10x10m.obj Lantbruk/Godselstack10x10m.obj
+EXPORT LA-X-Library1/Lantbruk/PlatSilo1.obj Lantbruk/PlatSilo1.obj
+EXPORT LA-X-Library1/Lantbruk/BetongSilo.obj Lantbruk/BetongSilo.obj
+EXPORT LA-X-Library1/Lantbruk/Halmbal.obj Lantbruk/Halmbal.obj
+EXPORT LA-X-Library1/Lantbruk/HalmbalStack.obj Lantbruk/HalmbalStack.obj
+EXPORT LA-X-Library1/Lantbruk/HalmRulle.obj Lantbruk/HalmRulle.obj
+EXPORT LA-X-Library1/Lantbruk/HalmRulleStack.obj Lantbruk/HalmRulleStack.obj
+EXPORT LA-X-Library1/Lantbruk/Hast.obj Lantbruk/Hast.obj
+EXPORT LA-X-Library1/Lantbruk/HastBetar.obj Lantbruk/HastBetar.obj
+EXPORT LA-X-Library1/Lantbruk/KoBetar.obj Lantbruk/KoBetar.obj
+
+
+
+#Stenar
+EXPORT LA-X-Library1/Stenar/Sten1.obj Stenar/Sten1.obj
+EXPORT LA-X-Library1/Stenar/Sten1-3m.obj Stenar/Sten1-3m.obj
+EXPORT LA-X-Library1/Stenar/Sten1-7m.obj Stenar/Sten1-7m.obj
+
+
+
+
+
+
+
+
+
+
+
+
+
