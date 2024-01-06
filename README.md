@@ -2,11 +2,19 @@
 SWE-lib project is a free to use library for the X-Plane® flight simulator. It is a collaborative effort by members of swedish flightsim community, providing a good range of high quality scenery components for authors to use in their scenery packages.
 
 # How to contribute
+Prior to contributing, make sure that every x-plane file typ (imigary excluded) you wish to upload has the following pasted at the bottom of the file:
+> Created by *INSERTENAME*
+>
+> ChangeLog:
+>
+> *INSERTDATE* - Initial version
+### Follow these steps after completing above
 1. Clone the repo
-2. Add new objects / update objects
+2. Add new objects / update objects into the file structure. 
 3. (optional) If you wish also include the build files for the library items inside folder **SWE-lib\WorkFiles**
 4. Delete old Library.txt file
 5. Rebuild the Library.txt file by running the buildXplaneLibrary.ps1 script in powershell shell. You may need to set execution policy to bypass. 
+
 > N1 - Never, ever delete a file or you will brake any dependencies made by others towards those said objects.
 
 > N2 - Once you upload **your** files, they fall under the property of the project. The rights cannot be revoked as that would brake dependencies. This is of course not applicable to uploaded items that may have been stolen.

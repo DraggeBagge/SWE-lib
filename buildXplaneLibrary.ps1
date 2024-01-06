@@ -2,10 +2,11 @@
 # visit repo on https://github.com/DraggeBagge/buildXplaneLibrary
 
 #   CHANGELOG
-#   v.1.0.1 added description  /DB
+#   v.1.0.1 added description  /DRAGGEBAGGE
+#   v.1.0.2 added support for lin, fac and for filetypes    /DRAGGEBAGGE
 
 $rootFolder = $PSScriptRoot
-$fileTypes = @("*.obj", "*.str")
+$fileTypes = @("*.obj","*.str","*.lin","*.fac","*.for")
 $libraryFilePath = Join-Path $rootFolder "Library.txt"
 
 If (-Not (Test-Path $libraryFilePath)){
@@ -43,8 +44,8 @@ ForEach ($file in $files) {
         } 
     }
 
-    # append obj and str to Library.txt as new row below existing objects
-    If(($file.Extension -eq ".obj" -or $file.Extension -eq ".str") -and -Not $itemAlreadyExists) { 
+    # append obj, str, lin, fac and for to Library.txt as new row below existing objects
+    If(($file.Extension -eq ".obj" -or $file.Extension -eq ".str" -or $file.Extension -eq ".lin" -or $file.Extension -eq ".fac" -or $file.Extension -eq ".for") -and -Not $itemAlreadyExists) { 
         Add-Content -Path $libraryFilePath -Value ("EXPORT " + $file.FullName)
         $newItemsAdded++
     }
@@ -53,5 +54,5 @@ ForEach ($file in $files) {
 if ($newItemsAdded -gt 0) {
     Write-Host "Done adding $newItemsAdded new library items. `nPlease check Library.txt for item-list orders errors"
 } else {
-    Write-Host "No new items identified"
+    Write-Host "No new items identified in Library folder structure. Quitting."
 }

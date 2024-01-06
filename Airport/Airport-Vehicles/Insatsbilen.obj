@@ -1371,3 +1371,7 @@ ATTR_no_blend
 
 ATTR_shiny_rat	0.216
 TRIS	0 3216
+
+# Created by Lennart Arvidsson
+# ChangeLog:
+# 20240106 - Initial version

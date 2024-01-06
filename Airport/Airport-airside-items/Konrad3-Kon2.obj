@@ -349,3 +349,7 @@ IDX10	238 253 252 238 254 253 238 237 254 238
 ATTR_no_blend
 
 TRIS	0 810
+
+# Created by Lennart Arvidsson
+# ChangeLog:
+# 20240106 - Initial version

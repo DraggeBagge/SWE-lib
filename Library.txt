@@ -31,15 +31,20 @@ EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Fences\GrindNat_Liten.obj
 EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Fences\GrindStorDubbel_07.obj
 EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Fences\Grind_Stor.obj
 EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Fences\LitenDubbelgrind.obj
+EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Fences\Staket1.fac
+EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Fences\Staket2.fac
+EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Fences\Staket3.fac
 EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Fences\StorGrindBred.obj
 EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Fences\StorGrindDubbel.obj
 EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Fences\StorGrindDubbelBred.obj
 EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Fences\StorGrindDubbelBred2.8.obj
 EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Fences\StorGrindDubbelOpen.obj
+EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Fences\TraStaket.fac
 EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Fences\TraStaket12m.obj
 EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Fences\TraStaket4m.obj
 EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Fences\TraStaket8m.obj
 EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Fences\TraStaketStolpe.obj
+EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Fences\VittStaket.fac
 
 #Airport-Flags
 EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Flags\FF_reklam.obj
@@ -113,7 +118,7 @@ EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Vehicles\Lastbil.obj
 EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Vehicles\Plogbil.obj
 EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Vehicles\Raddningsbil.obj
 EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Vehicles\SAAB93.obj
-EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Vehicles\Tankbil shell2.obj
+EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Vehicles\Tankbil_shell2.obj
 EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Vehicles\VolvoS40.obj
 EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Vehicles\VolvoS80.obj
 EXPORT E:\X-plane_DEV\SWE-lib\Airport\Airport-Vehicles\VolvoV70bla.obj

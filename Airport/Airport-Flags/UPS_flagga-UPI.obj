@@ -678,3 +678,7 @@ ATTR_no_blend
 
 TRIS	0 108
 TRIS	108 1944
+
+# Created by Lennart Arvidsson
+# ChangeLog:
+# 20240106 - Initial version
